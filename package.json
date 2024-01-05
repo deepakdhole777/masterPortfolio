@@ -2,7 +2,7 @@
   "private": true,
   "name": "deepakdhole777",
   "version": "0.1.0",
-  "homepage": "https://deepakdhole777.github.io",
+  "homepage": "https://deepakdhole777.github.io/masterPortfolio/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",

@@ -1973,10 +1973,19 @@
         }
         var x =
             ("undefined" != typeof e &&
-              void 0 !== Object({ NODE_ENV: "production", PUBLIC_URL: "" }) &&
-              (Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                .REACT_APP_SC_ATTR ||
-                Object({ NODE_ENV: "production", PUBLIC_URL: "" }).SC_ATTR)) ||
+              void 0 !==
+                Object({
+                  NODE_ENV: "production",
+                  PUBLIC_URL: "/masterPortfolio",
+                }) &&
+              (Object({
+                NODE_ENV: "production",
+                PUBLIC_URL: "/masterPortfolio",
+              }).REACT_APP_SC_ATTR ||
+                Object({
+                  NODE_ENV: "production",
+                  PUBLIC_URL: "/masterPortfolio",
+                }).SC_ATTR)) ||
             "data-styled",
           k = "undefined" != typeof window && "HTMLElement" in window,
           S = Boolean(
@@ -1984,29 +1993,48 @@
               ? SC_DISABLE_SPEEDY
               : "undefined" != typeof e &&
                   void 0 !==
-                    Object({ NODE_ENV: "production", PUBLIC_URL: "" }) &&
+                    Object({
+                      NODE_ENV: "production",
+                      PUBLIC_URL: "/masterPortfolio",
+                    }) &&
                   (void 0 !==
-                    Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                      .REACT_APP_SC_DISABLE_SPEEDY &&
+                    Object({
+                      NODE_ENV: "production",
+                      PUBLIC_URL: "/masterPortfolio",
+                    }).REACT_APP_SC_DISABLE_SPEEDY &&
                   "" !==
-                    Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                      .REACT_APP_SC_DISABLE_SPEEDY
+                    Object({
+                      NODE_ENV: "production",
+                      PUBLIC_URL: "/masterPortfolio",
+                    }).REACT_APP_SC_DISABLE_SPEEDY
                     ? "false" !==
-                        Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                          .REACT_APP_SC_DISABLE_SPEEDY &&
-                      Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                        .REACT_APP_SC_DISABLE_SPEEDY
+                        Object({
+                          NODE_ENV: "production",
+                          PUBLIC_URL: "/masterPortfolio",
+                        }).REACT_APP_SC_DISABLE_SPEEDY &&
+                      Object({
+                        NODE_ENV: "production",
+                        PUBLIC_URL: "/masterPortfolio",
+                      }).REACT_APP_SC_DISABLE_SPEEDY
                     : void 0 !==
-                        Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                          .SC_DISABLE_SPEEDY &&
+                        Object({
+                          NODE_ENV: "production",
+                          PUBLIC_URL: "/masterPortfolio",
+                        }).SC_DISABLE_SPEEDY &&
                       "" !==
-                        Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                          .SC_DISABLE_SPEEDY &&
+                        Object({
+                          NODE_ENV: "production",
+                          PUBLIC_URL: "/masterPortfolio",
+                        }).SC_DISABLE_SPEEDY &&
                       "false" !==
-                        Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                          .SC_DISABLE_SPEEDY &&
-                      Object({ NODE_ENV: "production", PUBLIC_URL: "" })
-                        .SC_DISABLE_SPEEDY)
+                        Object({
+                          NODE_ENV: "production",
+                          PUBLIC_URL: "/masterPortfolio",
+                        }).SC_DISABLE_SPEEDY &&
+                      Object({
+                        NODE_ENV: "production",
+                        PUBLIC_URL: "/masterPortfolio",
+                      }).SC_DISABLE_SPEEDY)
           ),
           E = {};
         function O(e) {
@@ -21100,4 +21128,4 @@
     },
   ],
 ]);
-//# sourceMappingURL=2.38142ba2.chunk.js.map
+//# sourceMappingURL=2.fefef6d5.chunk.js.map

@@ -313,8 +313,8 @@
         r = a.n(l),
         n = a(10),
         c = a.n(n),
-        s = a(163),
-        i = a(162),
+        i = a(163),
+        s = a(162),
         o = a(14),
         A = a(161),
         m = (a(53), a(54), a(7)),
@@ -1005,7 +1005,9 @@
                         r.a.createElement("img", {
                           className: "skill-image",
                           style: e.style,
-                          src: "".concat("", "/skills/").concat(e.imageSrc),
+                          src: ""
+                            .concat("/masterPortfolio", "/skills/")
+                            .concat(e.imageSrc),
                           alt: e.skillName,
                         })
                     )
@@ -3651,7 +3653,7 @@
           )
         );
       }
-      class se extends l.Component {
+      class ie extends l.Component {
         constructor(e) {
           super(e), (this.state = { redirect: !1 });
         }
@@ -3667,7 +3669,7 @@
             : r.a.createElement(ce, { theme: this.props.theme });
         }
       }
-      var ie = se;
+      var se = ie;
       a(83), a(84);
       class oe extends l.Component {
         render() {
@@ -5738,48 +5740,8 @@
       }
       var Ie = He;
       a(144);
+      l.Component;
       class ze extends l.Component {
-        render() {
-          const e = this.props.theme;
-          return r.a.createElement(
-            "div",
-            { className: "error-main" },
-            r.a.createElement(R, { theme: this.props.theme }),
-            r.a.createElement(
-              "div",
-              { className: "error-class" },
-              r.a.createElement(
-                d.Fade,
-                { bottom: !0, duration: 2e3, distance: "40px" },
-                r.a.createElement("h1", null, "Woops"),
-                r.a.createElement("h1", { className: "error-404" }, "404"),
-                r.a.createElement(
-                  "p",
-                  null,
-                  "The requested page is unavailable at the moment!"
-                ),
-                r.a.createElement(
-                  m.b,
-                  {
-                    className: "main-button",
-                    to: "/home",
-                    style: {
-                      color: e.body,
-                      backgroundColor: e.text,
-                      border: "solid 1px ".concat(e.text),
-                      display: "inline-flex",
-                    },
-                  },
-                  "Go Home"
-                )
-              )
-            ),
-            r.a.createElement(ee, { theme: this.props.theme }),
-            r.a.createElement(te, { theme: this.props.theme })
-          );
-        }
-      }
-      class Le extends l.Component {
         render() {
           return r.a.createElement(
             m.a,
@@ -5793,7 +5755,7 @@
                 render: (e) =>
                   h
                     ? r.a.createElement(
-                        ie,
+                        se,
                         Object.assign({}, e, { theme: this.props.theme })
                       )
                     : r.a.createElement(
@@ -5831,7 +5793,7 @@
                   path: "/splash",
                   render: (e) =>
                     r.a.createElement(
-                      ie,
+                      se,
                       Object.assign({}, e, { theme: this.props.theme })
                     ),
                 }),
@@ -5847,7 +5809,7 @@
                 path: "*",
                 render: (e) =>
                   r.a.createElement(
-                    ze,
+                    le,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               })
@@ -5855,7 +5817,7 @@
           );
         }
       }
-      const Pe = {
+      const Le = {
         body: "#EDF9FE",
         text: "#001C55",
         expTxtColor: "#000a12",
@@ -5868,10 +5830,10 @@
         headerColor: "#0E6BA877",
         splashBg: "#001C55",
       };
-      var Re;
-      const je = Object(D.b)(
-        Re ||
-          (Re = Object(j.a)([
+      var Pe;
+      const Re = Object(D.b)(
+        Pe ||
+          (Pe = Object(j.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
             ";\n    color: ",
             ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
@@ -5885,15 +5847,15 @@
           return t.text;
         }
       );
-      var De = function () {
+      var je = function () {
         return r.a.createElement(
           D.a,
-          { theme: Pe },
+          { theme: Le },
           r.a.createElement(
             r.a.Fragment,
             null,
-            r.a.createElement(je, null),
-            r.a.createElement("div", null, r.a.createElement(Le, { theme: Pe }))
+            r.a.createElement(Re, null),
+            r.a.createElement("div", null, r.a.createElement(ze, { theme: Le }))
           )
         );
       };
@@ -5905,12 +5867,12 @@
           )
       );
       a(145);
-      const Be = new A.a();
+      const De = new A.a();
       c.a.render(
         r.a.createElement(
           o.a,
-          { value: Be },
-          r.a.createElement(s.a, { theme: i.a }, r.a.createElement(De, null))
+          { value: De },
+          r.a.createElement(i.a, { theme: s.a }, r.a.createElement(je, null))
         ),
         document.getElementById("root")
       ),
@@ -5922,4 +5884,4 @@
   ]),
   [[48, 1, 2]],
 ]);
-//# sourceMappingURL=main.54b348a9.chunk.js.map
+//# sourceMappingURL=main.f39aa742.chunk.js.map

@@ -1,22 +1,22 @@
 !(function (e) {
   function r(r) {
     for (
-      var n, l, a = r[0], p = r[1], f = r[2], c = 0, s = [];
+      var n, l, a = r[0], f = r[1], i = r[2], c = 0, s = [];
       c < a.length;
       c++
     )
       (l = a[c]),
         Object.prototype.hasOwnProperty.call(o, l) && o[l] && s.push(o[l][0]),
         (o[l] = 0);
-    for (n in p) Object.prototype.hasOwnProperty.call(p, n) && (e[n] = p[n]);
-    for (i && i(r); s.length; ) s.shift()();
-    return u.push.apply(u, f || []), t();
+    for (n in f) Object.prototype.hasOwnProperty.call(f, n) && (e[n] = f[n]);
+    for (p && p(r); s.length; ) s.shift()();
+    return u.push.apply(u, i || []), t();
   }
   function t() {
     for (var e, r = 0; r < u.length; r++) {
       for (var t = u[r], n = !0, a = 1; a < t.length; a++) {
-        var p = t[a];
-        0 !== o[p] && (n = !1);
+        var f = t[a];
+        0 !== o[f] && (n = !1);
       }
       n && (u.splice(r--, 1), (e = l((l.s = t[0]))));
     }
@@ -74,13 +74,13 @@
     (l.o = function (e, r) {
       return Object.prototype.hasOwnProperty.call(e, r);
     }),
-    (l.p = "/");
+    (l.p = "/masterPortfolio/");
   var a = (this.webpackJsonpdeepakdhole777 =
       this.webpackJsonpdeepakdhole777 || []),
-    p = a.push.bind(a);
+    f = a.push.bind(a);
   (a.push = r), (a = a.slice());
-  for (var f = 0; f < a.length; f++) r(a[f]);
-  var i = p;
+  for (var i = 0; i < a.length; i++) r(a[i]);
+  var p = f;
   t();
 })([]);
-//# sourceMappingURL=runtime-main.b80f2d6e.js.map
+//# sourceMappingURL=runtime-main.9c7ade2e.js.map
