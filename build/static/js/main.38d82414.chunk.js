@@ -2,7 +2,7 @@
   [0],
   Array(35).concat([
     function (e, t, a) {
-      e.exports = a.p + "static/media/deepak1.d9907958.jpg";
+      e.exports = a.p + "static/media/deepak1.f0a618ab.jpg";
     },
     function (e, t, a) {},
     function (e, t, a) {
@@ -16,49 +16,52 @@
         "./contactMail.png": 91,
         "./coursera_logo.png": 92,
         "./data_science.svg": 93,
-        "./deepak.jpg": 94,
         "./deepak1.jpg": 35,
-        "./deeplearning_ai_logo.png": 95,
-        "./delhivery_logo.png": 96,
-        "./developerActivity.svg": 97,
-        "./dsc_logo.png": 98,
-        "./education.svg": 99,
-        "./experience.svg": 100,
-        "./feelingProud.svg": 101,
-        "./freecopy_logo.png": 102,
-        "./fullstack.svg": 103,
-        "./gcp_logo.png": 104,
-        "./github_logo.png": 105,
-        "./googleAssistant.jpg": 106,
-        "./googleAssistant.svg": 107,
-        "./google_logo.png": 108,
-        "./hsbc_logo.png": 109,
-        "./ibm_logo.png": 110,
-        "./iiitk_logo.png": 111,
-        "./intel_logo.jpg": 112,
-        "./iu_logo.png": 113,
-        "./jsFramework.svg": 114,
-        "./legato_logo.png": 115,
-        "./manOnTable.svg": 116,
-        "./microsoft_logo.png": 117,
-        "./mozilla_logo.png": 118,
-        "./muffito_logo.png": 119,
-        "./nextuLogo.jpg": 120,
-        "./nptel_logo.png": 121,
-        "./portfolio.gif": 122,
-        "./programmer.svg": 123,
-        "./projects_image.svg": 124,
-        "./pwa.png": 125,
-        "./saayaHealthLogo.png": 126,
-        "./stanford_logo.png": 127,
-        "./talksCardBack.svg": 128,
-        "./talksCardBackAlt.svg": 129,
-        "./tiktok_logo.png": 130,
-        "./tl.png": 131,
-        "./ui_ux_design.svg": 132,
-        "./umd.svg": 133,
-        "./vit_logo.png": 134,
-        "./whirlppol.png": 135,
+        "./deepak2.jpg": 94,
+        "./deepak3.jpg": 95,
+        "./deepak4.jpg": 96,
+        "./deeplearning_ai_logo.png": 97,
+        "./delhivery_logo.png": 98,
+        "./developerActivity.svg": 99,
+        "./dsc_logo.png": 100,
+        "./education.svg": 101,
+        "./experience.svg": 102,
+        "./feelingProud.svg": 103,
+        "./freecopy_logo.png": 104,
+        "./fullstack.svg": 105,
+        "./gcp_logo.png": 106,
+        "./github_logo.png": 107,
+        "./googleAssistant.jpg": 108,
+        "./googleAssistant.svg": 109,
+        "./google_logo.png": 110,
+        "./hsbc_logo.png": 111,
+        "./ibm_logo.png": 112,
+        "./iiitk_logo.png": 113,
+        "./intel_logo.jpg": 114,
+        "./iu_logo.png": 115,
+        "./jsFramework.svg": 116,
+        "./legato_logo.png": 117,
+        "./manOnTable.svg": 118,
+        "./microsoft_logo.png": 119,
+        "./mozilla_logo.png": 120,
+        "./muffito_logo.png": 121,
+        "./nextuLogo.jpg": 122,
+        "./nfcu.png": 123,
+        "./nptel_logo.png": 124,
+        "./portfolio.gif": 125,
+        "./programmer.svg": 126,
+        "./projects_image.svg": 127,
+        "./pwa.png": 128,
+        "./saayaHealthLogo.png": 129,
+        "./stanford_logo.png": 130,
+        "./talksCardBack.svg": 131,
+        "./talksCardBackAlt.svg": 132,
+        "./tiktok_logo.png": 133,
+        "./tl.png": 134,
+        "./ui_ux_design.svg": 135,
+        "./umd.svg": 136,
+        "./vit_logo.png": 137,
+        "./whirlppol.png": 138,
       };
       function r(e) {
         var t = n(e);
@@ -93,7 +96,7 @@
     ,
     ,
     function (e, t, a) {
-      e.exports = a(148);
+      e.exports = a(151);
     },
     ,
     ,
@@ -160,7 +163,13 @@
       e.exports = a.p + "static/media/data_science.ebf35d7f.svg";
     },
     function (e, t, a) {
-      e.exports = a.p + "static/media/deepak.c4dc08e4.jpg";
+      e.exports = a.p + "static/media/deepak2.c4dc08e4.jpg";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/deepak3.d9907958.jpg";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/deepak4.ed1459be.jpg";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/deeplearning_ai_logo.75a7107b.png";
@@ -247,6 +256,10 @@
       e.exports =
         "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QNBRXhpZgAASUkqAAgAAAAAAAAAAAAAAGh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBOTFGRjRGQTcxOTgxMUU0QTkyM0M4MTcyMzhDMjRGMiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBOTFGRjRGQjcxOTgxMUU0QTkyM0M4MTcyMzhDMjRGMiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkE5MUZGNEY4NzE5ODExRTRBOTIzQzgxNzIzOEMyNEYyIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkE5MUZGNEY5NzE5ODExRTRBOTIzQzgxNzIzOEMyNEYyIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+/+wAEUR1Y2t5AAEABAAAAGQAAP/uAA5BZG9iZQBkwAAAAAH/2wBDAAEBAQEB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";
     },
+    function (e, t) {
+      e.exports =
+        "data:image/png;base64,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";
+    },
     function (e, t, a) {
       e.exports = a.p + "static/media/nptel_logo.95a12a2b.png";
     },
@@ -312,11 +325,11 @@
       var l = a(0),
         r = a.n(l),
         n = a(10),
-        c = a.n(n),
-        i = a(163),
-        s = a(162),
+        i = a.n(n),
+        s = a(166),
+        c = a(165),
         o = a(14),
-        A = a(161),
+        A = a(164),
         m = (a(53), a(54), a(7)),
         C = a(5),
         d = (a(55), a(3));
@@ -324,7 +337,7 @@
         f = {
           title: "Deepak's Portfolio",
           description:
-            "Data wizard turning numbers into stories! Master of Information Systems and Python. Open to new adventures as a Data Scientist or Analyst. Let's make data laugh together!",
+            "Data wizard transforming raw data into actionable insights! Master of Information Systems and Python, with a passion for uncovering stories hidden in the numbers. Let's make data-driven decisions with a smile!",
           og: {
             title: "Deepak Dhole's Portfolio",
             type: "website",
@@ -335,9 +348,9 @@
         g = "DeepakDhole",
         E = "he/him",
         y =
-          "Data wizard turning numbers into stories! Master of Information Systems and Python. Open to new adventures as a Data Scientist or Analyst. Let's make data laugh together!",
+          "Data wizard transforming raw data into actionable insights! Master of Information Systems and Python, with a passion for uncovering stories hidden in the numbers. Let's make data-driven decisions with a smile!",
         u =
-          "https://drive.google.com/file/d/1LG1evG_nePnYXJ7eko6KBVSOgpsfeQho/view?usp=sharing",
+          "https://drive.google.com/file/d/1NjnU6nY9L6YoBMhd392jSpe1d4QTQMh9/view?usp=sharing",
         x = "https://github.com/deepakdhole777",
         M = [
           {
@@ -365,7 +378,8 @@
               title: "Data Science & AI",
               fileName: "DataScienceImg",
               skills: [
-                "\u26a1 Crafting robust production-ready models for diverse deep learning and statistical applications",
+                "\u26a1 Designing dashboards to provide strategic insigts from consumer lending data",
+                "\u26a1 Crafting robust models for diverse deep learning and statistical applications",
                 "\u26a1 Experience of working with Computer Vision and NLP projects",
                 "\u26a1 Complex quantitative modelling for dynamic forecasting and time series analysis",
               ],
@@ -374,11 +388,6 @@
                   skillName: "Tensorflow",
                   fontAwesomeClassname: "logos-tensorflow",
                   style: { backgroundColor: "transparent" },
-                },
-                {
-                  skillName: "Keras",
-                  fontAwesomeClassname: "simple-icons:keras",
-                  style: { backgroundColor: "white", color: "#D00000" },
                 },
                 {
                   skillName: "PyTorch",
@@ -390,10 +399,7 @@
                   fontAwesomeClassname: "ion-logo-python",
                   style: { backgroundColor: "transparent", color: "#3776AB" },
                 },
-                {
-                  skillName: "Deeplearning",
-                  imageSrc: "deeplearning_ai_logo.png",
-                },
+                { skillName: "Power Bi", imageSrc: "powerbi.png" },
               ],
             },
             {
@@ -401,13 +407,14 @@
               fileName: "FullStackImg",
               skills: [
                 "\u26a1 Designing robust pipelines that extract, load, and transform data",
-                "\u26a1 Achieving lossless data transmission through techniques like micro-batching and watermark",
-                "\u26a1 Patching data streaming services through migration of message brokers",
+                "\u26a1 Achieving faster data transmission through techniques like micro-batching and parallel processing",
+                "\u26a1 Securing data transfer using microservice-based architecture",
+                "\u26a1 Simplifying database deployment using integration of Oracle Wallet and Jenkins",
               ],
               softwareSkills: [
                 {
-                  skillName: "Google Dataflow",
-                  imageSrc: "dataflow_logo.png",
+                  skillName: "SQL Server",
+                  imageSrc: "mssql.png",
                   style: { color: "#E34F26" },
                 },
                 {
@@ -416,24 +423,9 @@
                   style: { color: "#E34F26" },
                 },
                 {
-                  skillName: "Apache Hadoop",
-                  imageSrc: "hadoop.png",
+                  skillName: "Jenkins",
+                  imageSrc: "jenkins.png",
                   style: { color: "#1572B6" },
-                },
-                {
-                  skillName: "Apache Kafka",
-                  imageSrc: "kafka.png",
-                  style: { color: "#CC6699" },
-                },
-                {
-                  skillName: "Apache Zookeeper",
-                  imageSrc: "zookeeper.png",
-                  style: { color: "#CC6699" },
-                },
-                {
-                  skillName: "Apache Flink",
-                  imageSrc: "flink.png",
-                  style: { color: "#CC6699" },
                 },
               ],
             },
@@ -470,58 +462,6 @@
                   skillName: "InellIJ",
                   imageSrc: "IntelliJ.png",
                   style: { color: "#000000" },
-                },
-              ],
-            },
-            {
-              title: "Database & Cloud Computing",
-              fileName: "CloudInfraImg",
-              skills: [
-                "\u26a1 Experience working on multiple cloud platforms",
-                "\u26a1 Hosting and maintaining websites on virtual machine instances along with integration of databases",
-                "\u26a1 Defining intricate data models and devising advanced database designs",
-                "\u26a1  Optimizing query performance through partitioning, bucketing, and indexing strategies",
-              ],
-              softwareSkills: [
-                {
-                  skillName: "GCP",
-                  fontAwesomeClassname: "simple-icons:googlecloud",
-                  style: { color: "#4285F4" },
-                },
-                {
-                  skillName: "AWS",
-                  fontAwesomeClassname: "simple-icons:amazonaws",
-                  style: { color: "#FF9900" },
-                },
-                {
-                  skillName: "Azure",
-                  fontAwesomeClassname: "simple-icons:microsoftazure",
-                  style: { color: "#0089D6" },
-                },
-                {
-                  skillName: "Firebase",
-                  fontAwesomeClassname: "simple-icons:firebase",
-                  style: { color: "#FFCA28" },
-                },
-                {
-                  skillName: "PostgreSQL",
-                  fontAwesomeClassname: "simple-icons:postgresql",
-                  style: { color: "#336791" },
-                },
-                {
-                  skillName: "MongoDB",
-                  fontAwesomeClassname: "simple-icons:mongodb",
-                  style: { color: "#47A248" },
-                },
-                {
-                  skillName: "Docker",
-                  fontAwesomeClassname: "simple-icons:docker",
-                  style: { color: "#1488C6" },
-                },
-                {
-                  skillName: "Kubernetes",
-                  fontAwesomeClassname: "simple-icons:kubernetes",
-                  style: { color: "#326CE5" },
                 },
               ],
             },
@@ -580,6 +520,34 @@
               work: !0,
               experiences: [
                 {
+                  title: "Business Intel Analyst",
+                  company: "Navy Federal Credit Union",
+                  company_url: "https://www.navyfederal.org/",
+                  logo_path: "nfcu.png",
+                  duration: "Feb 2024 - Present",
+                  location: "Vienna, Virginia",
+                  description: [
+                    "- Designed and maintained Litigation Dashboard using Power BI and underlying stored procedures using MSSQL server to track NFCU\u2019s pending and completed Litigations.",
+                    "- Created deliquent start balances report for Credit Cards and Consumer Loans across various stages. This portfolio report and key takeaways are reported to Chief Lending Officer every start of the month.",
+                    "- Developed a utility using Python to track bugs which facilitates migration of data from MSSQL to ASL.",
+                  ],
+                  color: "#9b1578",
+                },
+                {
+                  title: "Summer Associate (Data Science)",
+                  company: "Navy Federal Credit Union",
+                  company_url: "https://www.navyfederal.org/",
+                  logo_path: "nfcu.png",
+                  duration: "May 2023 - December 2023",
+                  location: "Vienna, Virginia",
+                  description: [
+                    "- Oversaw and optimized 3 critical KPIs using MLflow and Databricks (PySpark), enhancing NFCU consumer financial assessments",
+                    "- Created corresponding Power BI dashboard based on the time series output of KPIs for strategic insights visualization",
+                    "- Trained a model for 'praise' detection from audio transcripts of MSRs and members using an MLflow-integrated feedback analysis system using NLP (Hugging Face, Python), achieving ~87% accuracy.",
+                  ],
+                  color: "#9b1578",
+                },
+                {
                   title: "Graduate Assistant",
                   company: "University of Maryland",
                   company_url: "umd.edu",
@@ -600,8 +568,10 @@
                   duration: "January 2021 - July 2022",
                   location: "Pune, India",
                   description: [
-                    "- Created database deployment pipeline using Oracle Wallet and Jenkins to avoid manual login on production servers to reduce PAR access by ~90% and efficient error-free database production release.",
                     "- Spearheaded AI-backed application development for extensive Optical Character Recognition of financial documents, enabling a 100% reduction in manual efforts for KYC automation, utilizing Python and NLP.",
+                    "- Designed a pre-processing pipeline for image cleaning to enhance the document snapshot for better accuracy of the OCR engine.",
+                    "- Created an automatic deployment pipeline using Jenkins for production including automated monitoring of health end-points",
+                    "- Maintained project documentation and conducted scrum ceremonies for effective project management and progress visiblity.",
                   ],
                   color: "#0879bf",
                 },
@@ -615,6 +585,7 @@
                   description: [
                     "- Engineered backend ETL services for data migration of a monolithic application into microservices-based suite using Java, web-services and SQL to facilitate secured dataflow of trading data to reduce incidents by ~70%.",
                     "- Initiated and managed a project using JavaScript and Postgres (NoSQL) to build Q&A platform where people can ask varied questions from different technology stack to vendor applications or bespoke software used in HSBC.",
+                    "- Created database deployment pipeline using Oracle Wallet and Jenkins to avoid manual login on production servers to reduce PAR access by ~90% and efficient error-free database production release.",
                   ],
                   color: "#0879bf",
                 },
@@ -649,10 +620,10 @@
           ],
         },
         k = "Projects",
-        N =
+        S =
           "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.";
-      var S = a(38);
-      var H = function () {
+      var N = a(38);
+      var I = function () {
         var e, t, a;
         let l = [];
         return (
@@ -662,7 +633,7 @@
             l.push(e.link);
           }),
           r.a.createElement(
-            S.a,
+            N.a,
             null,
             r.a.createElement("title", null, f.title),
             r.a.createElement("meta", {
@@ -707,20 +678,20 @@
           )
         );
       };
-      const I = (e, t) => {
+      const R = (e, t) => {
           e.target.style.backgroundColor = t;
         },
-        z = (e) => {
+        L = (e) => {
           e.target.style.backgroundColor = "transparent";
         };
-      class L extends l.Component {
+      class H extends l.Component {
         render() {
           const e = this.props.theme,
             t = h ? "/splash" : "home";
           return r.a.createElement(
             d.Fade,
             { top: !0, duration: 1e3, distance: "20px" },
-            r.a.createElement(H, null),
+            r.a.createElement(I, null),
             r.a.createElement(
               "div",
               null,
@@ -761,8 +732,8 @@
                         tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => I(t, e.highlight),
-                        onMouseOut: (e) => z(e),
+                        onMouseEnter: (t) => R(t, e.highlight),
+                        onMouseOut: (e) => L(e),
                       },
                       "Home"
                     )
@@ -777,8 +748,8 @@
                         tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => I(t, e.highlight),
-                        onMouseOut: (e) => z(e),
+                        onMouseEnter: (t) => R(t, e.highlight),
+                        onMouseOut: (e) => L(e),
                       },
                       "Education"
                     )
@@ -793,8 +764,8 @@
                         tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => I(t, e.highlight),
-                        onMouseOut: (e) => z(e),
+                        onMouseEnter: (t) => R(t, e.highlight),
+                        onMouseOut: (e) => L(e),
                       },
                       "Experience"
                     )
@@ -809,8 +780,8 @@
                         tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: e.text },
-                        onMouseEnter: (t) => I(t, e.highlight),
-                        onMouseOut: (e) => z(e),
+                        onMouseEnter: (t) => R(t, e.highlight),
+                        onMouseOut: (e) => L(e),
                       },
                       "Projects"
                     )
@@ -821,13 +792,13 @@
           );
         }
       }
-      var P,
-        R = L,
-        j = (a(72), a(22)),
-        D = (a(73), a(16));
-      const B = D.c.span(
-        P ||
-          (P = Object(j.a)([
+      var j,
+        P = H,
+        z = (a(72), a(22)),
+        V = (a(73), a(16));
+      const D = V.c.span(
+        j ||
+          (j = Object(z.a)([
             "\n  i {\n    background-color: ",
             ";\n  }\n  &:hover i {\n    background-color: ",
             ";\n    transition: 0.3s ease-in;\n  }\n",
@@ -853,7 +824,7 @@
                 rel: "noopener noreferrer",
               },
               r.a.createElement(
-                B,
+                D,
                 Object.assign({}, t, e),
                 r.a.createElement("i", {
                   className: "fab ".concat(t.fontAwesomeIcon),
@@ -864,8 +835,8 @@
         );
       }
       a(76);
-      function V(e) {
-        let { text: t, className: a, href: l, newTab: n, theme: c } = e;
+      function B(e) {
+        let { text: t, className: a, href: l, newTab: n, theme: i } = e;
         return r.a.createElement(
           "div",
           { className: a },
@@ -876,26 +847,26 @@
               href: l,
               target: n && "_blank",
               style: {
-                color: c.body,
-                backgroundColor: c.text,
-                border: "solid 1px ".concat(c.text),
+                color: i.body,
+                backgroundColor: i.text,
+                border: "solid 1px ".concat(i.text),
               },
               onMouseEnter: (e) =>
                 ((e, t, a) => {
                   const l = e.target;
                   (l.style.color = t), (l.style.backgroundColor = a);
-                })(e, c.text, c.body),
+                })(e, i.text, i.body),
               onMouseOut: (e) =>
                 ((e, t, a) => {
                   const l = e.target;
                   (l.style.color = t), (l.style.backgroundColor = a);
-                })(e, c.body, c.text),
+                })(e, i.body, i.text),
             },
             t
           )
         );
       }
-      function G(e) {
+      function O(e) {
         const t = e.theme;
         return r.a.createElement(
           d.Fade,
@@ -940,7 +911,7 @@
                   r.a.createElement(
                     "div",
                     { className: "portfolio-repo-btn-div" },
-                    r.a.createElement(V, {
+                    r.a.createElement(B, {
                       text: "\u2b50 See my Resume",
                       newTab: !0,
                       href: u,
@@ -965,9 +936,9 @@
         );
       }
       a(36), a(77);
-      var U = a(160),
-        O = a(159);
-      class J extends r.a.Component {
+      var J = a(163),
+        U = a(162);
+      class G extends r.a.Component {
         render() {
           return r.a.createElement(
             "div",
@@ -980,12 +951,12 @@
                 { className: "dev-icons" },
                 this.props.logos.map((e) =>
                   r.a.createElement(
-                    U.a,
+                    J.a,
                     {
                       key: e.skillName,
                       placement: "top",
                       overlay: r.a.createElement(
-                        O.a,
+                        U.a,
                         { id: "tooltip-top" },
                         r.a.createElement("strong", null, e.skillName)
                       ),
@@ -1018,7 +989,7 @@
           );
         }
       }
-      var q = J;
+      var W = G;
       class F extends l.Component {
         render() {
           const e = this.props.theme;
@@ -1691,7 +1662,7 @@
           );
         }
       }
-      class W extends l.Component {
+      class q extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -3242,16 +3213,16 @@
           );
         }
       }
-      function K(e) {
+      function Y(e) {
         return "DataScienceImg" === e.fileName
           ? r.a.createElement(F, { theme: e.theme })
           : "FullStackImg" === e.fileName
           ? r.a.createElement(X, { theme: e.theme })
           : "CloudInfraImg" === e.fileName
-          ? r.a.createElement(W, { theme: e.theme })
+          ? r.a.createElement(q, { theme: e.theme })
           : r.a.createElement(T, { theme: e.theme });
       }
-      class Y extends l.Component {
+      class K extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -3267,7 +3238,7 @@
                   r.a.createElement(
                     "div",
                     { className: "skills-image-div" },
-                    r.a.createElement(K, { fileName: t.fileName, theme: e })
+                    r.a.createElement(Y, { fileName: t.fileName, theme: e })
                   )
                 ),
                 r.a.createElement(
@@ -3285,7 +3256,7 @@
                   r.a.createElement(
                     d.Fade,
                     { right: !0, duration: 1500 },
-                    r.a.createElement(q, { logos: t.softwareSkills })
+                    r.a.createElement(W, { logos: t.softwareSkills })
                   ),
                   r.a.createElement(
                     d.Fade,
@@ -3312,7 +3283,7 @@
           );
         }
       }
-      var _ = Y;
+      var _ = K;
       function $(e) {
         const t = e.theme;
         return r.a.createElement(
@@ -3390,8 +3361,8 @@
           return r.a.createElement(
             "div",
             null,
-            r.a.createElement(R, { theme: this.props.theme }),
-            r.a.createElement(G, { theme: this.props.theme }),
+            r.a.createElement(P, { theme: this.props.theme }),
+            r.a.createElement(O, { theme: this.props.theme }),
             r.a.createElement($, { theme: this.props.theme }),
             r.a.createElement(ee, { theme: this.props.theme }),
             r.a.createElement(te, { theme: this.props.theme })
@@ -3639,7 +3610,7 @@
         }
       }
       var ne = re;
-      function ce(e) {
+      function ie(e) {
         return r.a.createElement(
           "div",
           { className: "logo_wrapper" },
@@ -3653,7 +3624,7 @@
           )
         );
       }
-      class ie extends l.Component {
+      class se extends l.Component {
         constructor(e) {
           super(e), (this.state = { redirect: !1 });
         }
@@ -3666,10 +3637,10 @@
         render() {
           return this.state.redirect
             ? r.a.createElement(C.a, { to: "/home" })
-            : r.a.createElement(ce, { theme: this.props.theme });
+            : r.a.createElement(ie, { theme: this.props.theme });
         }
       }
-      var se = ie;
+      var ce = se;
       a(83), a(84);
       class oe extends l.Component {
         render() {
@@ -3803,7 +3774,7 @@
         }
       }
       var Ce = me;
-      a(136);
+      a(139);
       class de extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -3814,13 +3785,13 @@
               { className: "dev-icons" },
               this.props.logos.map((e) =>
                 r.a.createElement(
-                  U.a,
+                  J.a,
                   {
                     key: e.siteName,
                     placement: "top",
                     style: { marginBottom: "5px" },
                     overlay: r.a.createElement(
-                      O.a,
+                      U.a,
                       { id: "tooltip-top" },
                       r.a.createElement("strong", null, e.siteName)
                     ),
@@ -4156,14 +4127,14 @@
           );
         }
       }
-      a(137);
+      a(140);
       class pe extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
             "div",
             { className: "education-main" },
-            r.a.createElement(R, { theme: this.props.theme }),
+            r.a.createElement(P, { theme: this.props.theme }),
             r.a.createElement(
               "div",
               { className: "basic-education" },
@@ -4189,7 +4160,7 @@
                     r.a.createElement(
                       "h3",
                       { className: "text", style: { color: e.text } },
-                      "My qualifications showcase my commitment to a well-rounded education in areas essential for a successful career in technology and information management."
+                      "Equipped with a well-rounded education for success in technology and information management."
                     ),
                     r.a.createElement(he, { logos: w.competitiveSites })
                   )
@@ -4203,7 +4174,7 @@
         }
       }
       var ge = pe;
-      a(138);
+      a(141);
       class Ee extends l.Component {
         render() {
           const e = this.props.experience,
@@ -4345,7 +4316,7 @@
         }
       }
       var ye = Ee;
-      a(139);
+      a(142);
       class ue extends l.Component {
         render() {
           const e = this.props.theme;
@@ -4374,7 +4345,7 @@
         }
       }
       var xe = ue;
-      a(140);
+      a(143);
       class Me extends l.Component {
         render() {
           const e = this.props.theme;
@@ -4816,7 +4787,7 @@
           return r.a.createElement(
             "div",
             { className: "experience-main" },
-            r.a.createElement(R, { theme: e }),
+            r.a.createElement(P, { theme: e }),
             r.a.createElement(
               "div",
               { className: "basic-experience" },
@@ -4872,7 +4843,7 @@
         }
       }
       var we = be;
-      a(141);
+      a(144);
       class Ze extends l.Component {
         render() {
           return r.a.createElement(
@@ -4886,12 +4857,12 @@
                 { className: "dev-icons-languages" },
                 this.props.logos.map((e) =>
                   r.a.createElement(
-                    U.a,
+                    J.a,
                     {
                       key: e.name,
                       placement: "top",
                       overlay: r.a.createElement(
-                        O.a,
+                        U.a,
                         { id: "tooltip-top" },
                         r.a.createElement("strong", null, e.name)
                       ),
@@ -4916,7 +4887,7 @@
         }
       }
       var ve = Ze;
-      a(142);
+      a(145);
       function ke(e) {
         let { repo: t, theme: a } = e;
         return r.a.createElement(
@@ -4988,9 +4959,9 @@
           )
         );
       }
-      var Ne = a(45);
-      a(143);
-      class Se extends l.Component {
+      var Se = a(45);
+      a(146);
+      class Ne extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
@@ -5674,13 +5645,13 @@
           );
         }
       }
-      class He extends l.Component {
+      class Ie extends l.Component {
         render() {
           const e = this.props.theme;
           return r.a.createElement(
             "div",
             { className: "projects-main" },
-            r.a.createElement(R, { theme: e }),
+            r.a.createElement(P, { theme: e }),
             r.a.createElement(
               "div",
               { className: "basic-projects" },
@@ -5693,7 +5664,7 @@
                   r.a.createElement(
                     "div",
                     { className: "projects-heading-img-div" },
-                    r.a.createElement(Se, { theme: e })
+                    r.a.createElement(Ne, { theme: e })
                   ),
                   r.a.createElement(
                     "div",
@@ -5712,7 +5683,7 @@
                         className: "projects-header-detail-text subTitle",
                         style: { color: e.secondaryText },
                       },
-                      N
+                      S
                     )
                   )
                 )
@@ -5721,9 +5692,9 @@
             r.a.createElement(
               "div",
               { className: "repo-cards-div-main" },
-              Ne.data.map((t) => r.a.createElement(ke, { repo: t, theme: e }))
+              Se.data.map((t) => r.a.createElement(ke, { repo: t, theme: e }))
             ),
-            r.a.createElement(V, {
+            r.a.createElement(B, {
               text: "More Projects",
               className: "project-button",
               href: x,
@@ -5738,10 +5709,10 @@
           );
         }
       }
-      var Ie = He;
-      a(144);
+      var Re = Ie;
+      a(147);
       l.Component;
-      class ze extends l.Component {
+      class Le extends l.Component {
         render() {
           return r.a.createElement(
             m.a,
@@ -5755,7 +5726,7 @@
                 render: (e) =>
                   h
                     ? r.a.createElement(
-                        se,
+                        ce,
                         Object.assign({}, e, { theme: this.props.theme })
                       )
                     : r.a.createElement(
@@ -5793,7 +5764,7 @@
                   path: "/splash",
                   render: (e) =>
                     r.a.createElement(
-                      se,
+                      ce,
                       Object.assign({}, e, { theme: this.props.theme })
                     ),
                 }),
@@ -5801,7 +5772,7 @@
                 path: "/projects",
                 render: (e) =>
                   r.a.createElement(
-                    Ie,
+                    Re,
                     Object.assign({}, e, { theme: this.props.theme })
                   ),
               }),
@@ -5817,7 +5788,7 @@
           );
         }
       }
-      const Le = {
+      const He = {
         body: "#EDF9FE",
         text: "#001C55",
         expTxtColor: "#000a12",
@@ -5830,10 +5801,10 @@
         headerColor: "#0E6BA877",
         splashBg: "#001C55",
       };
-      var Pe;
-      const Re = Object(D.b)(
-        Pe ||
-          (Pe = Object(j.a)([
+      var je;
+      const Pe = Object(V.b)(
+        je ||
+          (je = Object(z.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
             ";\n    color: ",
             ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
@@ -5847,15 +5818,15 @@
           return t.text;
         }
       );
-      var je = function () {
+      var ze = function () {
         return r.a.createElement(
-          D.a,
-          { theme: Le },
+          V.a,
+          { theme: He },
           r.a.createElement(
             r.a.Fragment,
             null,
-            r.a.createElement(Re, null),
-            r.a.createElement("div", null, r.a.createElement(ze, { theme: Le }))
+            r.a.createElement(Pe, null),
+            r.a.createElement("div", null, r.a.createElement(Le, { theme: He }))
           )
         );
       };
@@ -5866,13 +5837,13 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(145);
-      const De = new A.a();
-      c.a.render(
+      a(148);
+      const Ve = new A.a();
+      i.a.render(
         r.a.createElement(
           o.a,
-          { value: De },
-          r.a.createElement(i.a, { theme: s.a }, r.a.createElement(je, null))
+          { value: Ve },
+          r.a.createElement(s.a, { theme: c.a }, r.a.createElement(ze, null))
         ),
         document.getElementById("root")
       ),
@@ -5884,4 +5855,4 @@
   ]),
   [[48, 1, 2]],
 ]);
-//# sourceMappingURL=main.7e8227e3.chunk.js.map
+//# sourceMappingURL=main.38d82414.chunk.js.map
