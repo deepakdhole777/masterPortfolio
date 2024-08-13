@@ -30,8 +30,7 @@ class Education extends Component {
                   Education
                 </h1>
                 <h3 className="text" style={{ color: theme.text }}>
-                  My qualifications showcase my commitment to a well-rounded
-                  education in areas essential for a successful career in
+                  Equipped with a well-rounded education for success in
                   technology and information management.
                 </h3>
                 <CompetitiveSites logos={competitiveSites.competitiveSites} />

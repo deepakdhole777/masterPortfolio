@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Deepak's Portfolio",
   description:
-    "Data wizard turning numbers into stories! Master of Information Systems and Python. Open to new adventures as a Data Scientist or Analyst. Let's make data laugh together!",
+    "Data wizard transforming raw data into actionable insights! Master of Information Systems and Python, with a passion for uncovering stories hidden in the numbers. Let's make data-driven decisions with a smile!",
   og: {
     title: "Deepak Dhole's Portfolio",
     type: "website",
@@ -23,11 +23,11 @@ const greeting = {
   logo_name: "DeepakDhole",
   nickname: "he/him",
   subTitle:
-    "Data wizard turning numbers into stories! Master of Information Systems and Python. Open to new adventures as a Data Scientist or Analyst. Let's make data laugh together!",
+    "Data wizard transforming raw data into actionable insights! Master of Information Systems and Python, with a passion for uncovering stories hidden in the numbers. Let's make data-driven decisions with a smile!",
   resumeLink:
-    "https://drive.google.com/file/d/1LG1evG_nePnYXJ7eko6KBVSOgpsfeQho/view?usp=sharing",
+    "https://drive.google.com/file/d/1NjnU6nY9L6YoBMhd392jSpe1d4QTQMh9/view?usp=sharing",
   portfolio_repository:
-    "https://drive.google.com/file/d/1LG1evG_nePnYXJ7eko6KBVSOgpsfeQho/view?usp=sharing",
+    "https://drive.google.com/file/d/1NjnU6nY9L6YoBMhd392jSpe1d4QTQMh9/view?usp=sharing",
   githubProfile: "https://github.com/deepakdhole777",
 };
 
@@ -58,7 +58,8 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Crafting robust production-ready models for diverse deep learning and statistical applications",
+        "⚡ Designing dashboards to provide strategic insigts from consumer lending data",
+        "⚡ Crafting robust models for diverse deep learning and statistical applications",
         "⚡ Experience of working with Computer Vision and NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
@@ -70,14 +71,7 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
+
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -94,8 +88,8 @@ const skills = {
           },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
+          skillName: "Power Bi",
+          imageSrc: "powerbi.png",
         },
       ],
     },
@@ -104,13 +98,14 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Designing robust pipelines that extract, load, and transform data",
-        "⚡ Achieving lossless data transmission through techniques like micro-batching and watermark",
-        "⚡ Patching data streaming services through migration of message brokers",
+        "⚡ Achieving faster data transmission through techniques like micro-batching and parallel processing",
+        "⚡ Securing data transfer using microservice-based architecture",
+        "⚡ Simplifying database deployment using integration of Oracle Wallet and Jenkins",
       ],
       softwareSkills: [
         {
-          skillName: "Google Dataflow",
-          imageSrc: "dataflow_logo.png",
+          skillName: "SQL Server",
+          imageSrc: "mssql.png",
           style: {
             color: "#E34F26",
           },
@@ -123,31 +118,10 @@ const skills = {
           },
         },
         {
-          skillName: "Apache Hadoop",
-          imageSrc: "hadoop.png",
+          skillName: "Jenkins",
+          imageSrc: "jenkins.png",
           style: {
             color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Apache Kafka",
-          imageSrc: "kafka.png",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "Apache Zookeeper",
-          imageSrc: "zookeeper.png",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "Apache Flink",
-          imageSrc: "flink.png",
-          style: {
-            color: "#CC6699",
           },
         },
       ],
@@ -198,7 +172,7 @@ const skills = {
         },
       ],
     },
-    {
+    /*{
       title: "Database & Cloud Computing",
       fileName: "CloudInfraImg",
       skills: [
@@ -265,7 +239,7 @@ const skills = {
           },
         },
       ],
-    },
+    },*/
   ],
 };
 
@@ -328,6 +302,34 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Business Intel Analyst",
+          company: "Navy Federal Credit Union",
+          company_url: "https://www.navyfederal.org/",
+          logo_path: "nfcu.png",
+          duration: "Feb 2024 - Present",
+          location: "Vienna, Virginia",
+          description: [
+            "- Designed and maintained Litigation Dashboard using Power BI and underlying stored procedures using MSSQL server to track NFCU’s pending and completed Litigations.",
+            "- Created deliquent start balances report for Credit Cards and Consumer Loans across various stages. This portfolio report and key takeaways are reported to Chief Lending Officer every start of the month.",
+            "- Developed a utility using Python to track bugs which facilitates migration of data from MSSQL to ASL.",
+          ],
+          color: "#9b1578",
+        },
+        {
+          title: "Summer Associate (Data Science)",
+          company: "Navy Federal Credit Union",
+          company_url: "https://www.navyfederal.org/",
+          logo_path: "nfcu.png",
+          duration: "May 2023 - December 2023",
+          location: "Vienna, Virginia",
+          description: [
+            "- Oversaw and optimized 3 critical KPIs using MLflow and Databricks (PySpark), enhancing NFCU consumer financial assessments",
+            "- Created corresponding Power BI dashboard based on the time series output of KPIs for strategic insights visualization",
+            "- Trained a model for 'praise' detection from audio transcripts of MSRs and members using an MLflow-integrated feedback analysis system using NLP (Hugging Face, Python), achieving ~87% accuracy.",
+          ],
+          color: "#9b1578",
+        },
+        {
           title: "Graduate Assistant",
           company: "University of Maryland",
           company_url: "umd.edu",
@@ -348,8 +350,10 @@ const experience = {
           duration: "January 2021 - July 2022",
           location: "Pune, India",
           description: [
-            "- Created database deployment pipeline using Oracle Wallet and Jenkins to avoid manual login on production servers to reduce PAR access by ~90% and efficient error-free database production release.",
             "- Spearheaded AI-backed application development for extensive Optical Character Recognition of financial documents, enabling a 100% reduction in manual efforts for KYC automation, utilizing Python and NLP.",
+            "- Designed a pre-processing pipeline for image cleaning to enhance the document snapshot for better accuracy of the OCR engine.",
+            "- Created an automatic deployment pipeline using Jenkins for production including automated monitoring of health end-points",
+            "- Maintained project documentation and conducted scrum ceremonies for effective project management and progress visiblity.",
           ],
           color: "#0879bf",
         },
@@ -363,6 +367,7 @@ const experience = {
           description: [
             "- Engineered backend ETL services for data migration of a monolithic application into microservices-based suite using Java, web-services and SQL to facilitate secured dataflow of trading data to reduce incidents by ~70%.",
             "- Initiated and managed a project using JavaScript and Postgres (NoSQL) to build Q&A platform where people can ask varied questions from different technology stack to vendor applications or bespoke software used in HSBC.",
+            "- Created database deployment pipeline using Oracle Wallet and Jenkins to avoid manual login on production servers to reduce PAR access by ~90% and efficient error-free database production release.",
           ],
           color: "#0879bf",
         },
