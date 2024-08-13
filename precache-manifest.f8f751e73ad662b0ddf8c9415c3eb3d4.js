@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86268f5c3d8c6f99c5b08d5e2fd11cae",
+    "revision": "cda503b50e1835ec300f29ce3d2a6bb0",
     "url": "/masterPortfolio/index.html"
   },
   {
-    "revision": "38e26b4c6a374850d899",
+    "revision": "160badbdefb97f3ad166",
     "url": "/masterPortfolio/static/css/main.ba0879a8.chunk.css"
   },
   {
-    "revision": "3eae827a6787c57fd1eb",
-    "url": "/masterPortfolio/static/js/2.fefef6d5.chunk.js"
+    "revision": "f00212dd7422053ebbc5",
+    "url": "/masterPortfolio/static/js/2.ee5dcb3a.chunk.js"
   },
   {
-    "revision": "38e26b4c6a374850d899",
-    "url": "/masterPortfolio/static/js/main.7e8227e3.chunk.js"
+    "revision": "160badbdefb97f3ad166",
+    "url": "/masterPortfolio/static/js/main.38d82414.chunk.js"
   },
   {
     "revision": "c4e003733493ae1d78db",
@@ -84,12 +84,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masterPortfolio/static/media/data_science.ebf35d7f.svg"
   },
   {
+    "revision": "f0a618ab0c3e9ae75f297723fef1dd1f",
+    "url": "/masterPortfolio/static/media/deepak1.f0a618ab.jpg"
+  },
+  {
     "revision": "c4dc08e401ae821670830dd54e195250",
-    "url": "/masterPortfolio/static/media/deepak.c4dc08e4.jpg"
+    "url": "/masterPortfolio/static/media/deepak2.c4dc08e4.jpg"
   },
   {
     "revision": "d9907958c3eb62e2d47ded8a91c6cfce",
-    "url": "/masterPortfolio/static/media/deepak1.d9907958.jpg"
+    "url": "/masterPortfolio/static/media/deepak3.d9907958.jpg"
+  },
+  {
+    "revision": "ed1459be83dd113ea7ba03b39f9dadd3",
+    "url": "/masterPortfolio/static/media/deepak4.ed1459be.jpg"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
